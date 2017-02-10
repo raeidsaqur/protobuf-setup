@@ -16,7 +16,7 @@ $ ./protoInstallation.sh
 
 When the script completes, run it again to ensure you get output similar to the following:
 
-![alt text][screenshot]
+![alt tag](https://github.com/raeidsaqur/protobuf-setup/blob/master/screenshot.png)
 
 Here’s what the script has accomplished:
 <ol>
