@@ -1,6 +1,6 @@
-# H1 protobuf-setup
+# protobuf-setup
 Python script for quick environment setup for using swift protobuf
-
+------
 <p>
 There are a several tools and libraries that you have to install before using protocol buffers in Swift.
 This script will take a while to install, especially when installing Google’s protocol buffer libraries.
@@ -26,5 +26,5 @@ Here’s what the script has accomplished:
 <li>Moved the Swift Protobuf plugin protoc-gen-swift into /usr/local/bin. This allows the Protobuf compiler to generate Swift structs.</li>
 </ol>
 
-<b>You now have everything you need to start using protocol buffers!</b>
+**You now have everything you need to start using protocol buffers!**
 
